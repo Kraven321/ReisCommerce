@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+ReisCommerce 🛍️
+Bem-vindo ao ReisCommerce! O ReisCommerce é um e-commerce de roupas desenvolvido com TypeScript e Next.js. Este projeto foi implantado na plataforma Vercel e utiliza o Sanity como o "Back End". Além disso, para simplificar o processo de construção do carrinho de compras, foi utilizada a biblioteca use-cart-shopping.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Tecnologias Utilizadas 🚀
+TypeScript: Linguagem de programação para desenvolvimento frontend.
+Next.js: Framework React para criação de aplicativos web.
+Vercel: Plataforma de implantação e hospedagem.
+Sanity: Plataforma de gerenciamento de conteúdo (CMS) para o "Back End".
+use-cart-shopping: Biblioteca para facilitar o processo de construção do carrinho de compras.
+Shadcn-UI: Biblioteca de componentes de interface do usuário.
+Funcionalidades Principais ℹ️
+Exibição de Produtos: Explore uma variedade de roupas disponíveis para compra.
+Adição ao Carrinho: Adicione produtos ao carrinho com facilidade.
+Gerenciamento do Carrinho: Visualize e atualize os itens no carrinho de compras.
+Finalização da Compra: Prossiga para o processo de checkout e conclua suas compras.
+Adição de Produtos na loja através do Sanity.
+Contribuindo 🤝
+Sinta-se à vontade para abrir uma issue se encontrar algum problema ou tiver sugestões.
+Pull requests são bem-vindos. Fique à vontade para compartilhar melhorias ou correções de bugs.
+Autor 📝
+Henrique Reis Carvalho
