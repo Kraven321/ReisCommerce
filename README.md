@@ -19,11 +19,14 @@ Bem-vindo ao ReisCommerce! O ReisCommerce é um e-commerce de roupas desenvolvid
 - **Finalização da Compra**: Prossiga para o processo de checkout e conclua suas compras.
 - **Adição de Novos Produtos através do Sanity**: Conseguimos adicionar novos produtos à loja através do Studio do Sanity e ao dar f5 na pagina o produto já aparece .
  
-##Contribuindo 🤝
+## Contribuindo 🤝
+
 - Sinta-se à vontade para abrir uma issue se encontrar algum problema ou tiver sugestões.
 - Pull requests são bem-vindos. Fique à vontade para compartilhar melhorias ou correções de bugs.
 
-##Autor 📝
-Este projeto foi criado por Henrique Reis Carvalho.
+## Autor 📝
+
+Este projeto foi criado por Seu Nome.
+
 
 
