@@ -26,7 +26,7 @@ Bem-vindo ao ReisCommerce! O ReisCommerce é um e-commerce de roupas desenvolvid
 
 ## Autor 📝
 
-Este projeto foi criado por Seu Nome.
+Este projeto foi criado por Henrique Reis Carvalho.
 
 
 
